@@ -8,7 +8,7 @@ int main( ) {
    double angleElevation;
 
    angleElevation = 0.11693706; // 0.11693706 radians = 6.7 degrees
-   shadowLength   = 17.5;
+   shadowLength   = 17.6;
 
     treeHeight = shadowLength * tan(angleElevation);
 
